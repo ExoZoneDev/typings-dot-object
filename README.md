@@ -2,4 +2,4 @@
 Typings for the dot-object npm package 
 
 ## Install
-`typings install --save github:ExoZoneDev/typings-dot-object#b6e2ece5dbd7f871d97c9aa60a329d6086466e84`
+`typings install --save github:ExoZoneDev/typings-dot-object#7b1d67b09cbd959370aff7deef3410037538f88e`
